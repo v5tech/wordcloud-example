@@ -1,0 +1,9 @@
+.idea
+venv
+pictures/*.jpg
+wordcloud/*.png
+fake_useragent.json
+final_video.mp4
+result.mp4
+song.mp3
+.DS_Store

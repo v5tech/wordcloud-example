@@ -1,0 +1,14 @@
+requests
+lxml
+datetime
+fake-useragent
+pandas
+opencv-python
+baidu-aip
+wordcloud
+jieba
+numpy
+you-get
+moviepy
+matplotlib
+Pillow
